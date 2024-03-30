@@ -51,3 +51,65 @@
   year={2014},
   publisher={Elsevier}
 }
+
+@article{mulder2013impact,
+  title={The impact of renewable energy on electricity prices in the Netherlands},
+  author={Mulder, Machiel and Scholtens, Bert},
+  journal={Renewable energy},
+  volume={57},
+  pages={94--100},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{hagfors2016prediction,
+  title={Prediction of extreme price occurrences in the German day-ahead electricity market},
+  author={Hagfors, Lars Ivar and Kamperud, Hilde H{\o}rthe and Paraschiv, Florentina and Prokopczuk, Marcel and Sator, Alma and Westgaard, Sjur},
+  journal={Quantitative finance},
+  volume={16},
+  number={12},
+  pages={1929--1948},
+  year={2016},
+  publisher={Taylor \& Francis}
+}
+
+@article{brandstatt2011deal,
+  title={How to deal with negative power price spikes?—Flexible voluntary curtailment agreements for large-scale integration of wind},
+  author={Brandst{\"a}tt, Christine and Brunekreeft, Gert and Jahnke, Katy},
+  journal={Energy Policy},
+  volume={39},
+  number={6},
+  pages={3732--3740},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{paraschiv2014impact,
+  title={The impact of renewable energies on EEX day-ahead electricity prices},
+  author={Paraschiv, Florentina and Erni, David and Pietsch, Ralf},
+  journal={Energy Policy},
+  volume={73},
+  pages={196--210},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{pape2016fundamentals,
+  title={Are fundamentals enough? Explaining price variations in the German day-ahead and intraday power market},
+  author={Pape, Christian and Hagemann, Simon and Weber, Christoph},
+  journal={Energy Economics},
+  volume={54},
+  pages={376--387},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{goodarzi2019impact,
+  title={The impact of renewable energy forecast errors on imbalance volumes and electricity spot prices},
+  author={Goodarzi, Shadi and Perera, H Niles and Bunn, Derek},
+  journal={Energy Policy},
+  volume={134},
+  pages={110827},
+  year={2019},
+  publisher={Elsevier}
+}
