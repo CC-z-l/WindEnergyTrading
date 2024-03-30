@@ -29,3 +29,25 @@
   year={2017},
   publisher={Elsevier}
 }
+
+
+
+@article{yang2018battery,
+  title={Battery energy storage system size determination in renewable energy systems: A review},
+  author={Yang, Yuqing and Bremner, Stephen and Menictas, Chris and Kay, Merlinde},
+  journal={Renewable and Sustainable Energy Reviews},
+  volume={91},
+  pages={109--125},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{ketterer2014impact,
+  title={The impact of wind power generation on the electricity price in Germany},
+  author={Ketterer, Janina C},
+  journal={Energy economics},
+  volume={44},
+  pages={270--280},
+  year={2014},
+  publisher={Elsevier}
+}
