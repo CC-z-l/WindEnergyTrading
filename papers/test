@@ -1,1 +1,31 @@
+@article{mills2020impacts,
+  title={Impacts of variable renewable energy on wholesale markets and generating assets in the United States: A review of expectations and evidence},
+  author={Mills, Andrew D and Levin, Todd and Wiser, Ryan and Seel, Joachim and Botterud, Audun},
+  journal={Renewable and Sustainable Energy Reviews},
+  volume={120},
+  pages={109670},
+  year={2020},
+  publisher={Elsevier}
+}
 
+
+@article{spodniak2021impact,
+  title={The impact of wind power and electricity demand on the relevance of different short-term electricity markets: The Nordic case},
+  author={Spodniak, Petr and Ollikka, Kimmo and Honkapuro, Samuli},
+  journal={Applied energy},
+  volume={283},
+  pages={116063},
+  year={2021},
+  publisher={Elsevier}
+}
+
+
+@article{rintamaki2017does,
+  title={Does renewable energy generation decrease the volatility of electricity prices? An analysis of Denmark and Germany},
+  author={Rintam{\"a}ki, Tuomas and Siddiqui, Afzal S and Salo, Ahti},
+  journal={Energy Economics},
+  volume={62},
+  pages={270--282},
+  year={2017},
+  publisher={Elsevier}
+}
